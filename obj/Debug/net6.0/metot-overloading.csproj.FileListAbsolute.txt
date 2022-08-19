@@ -1,0 +1,15 @@
+C:\Users\OSMAN\metot-overloading\bin\Debug\net6.0\metot-overloading.exe
+C:\Users\OSMAN\metot-overloading\bin\Debug\net6.0\metot-overloading.deps.json
+C:\Users\OSMAN\metot-overloading\bin\Debug\net6.0\metot-overloading.runtimeconfig.json
+C:\Users\OSMAN\metot-overloading\bin\Debug\net6.0\metot-overloading.dll
+C:\Users\OSMAN\metot-overloading\bin\Debug\net6.0\metot-overloading.pdb
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\metot-overloading.csproj.AssemblyReference.cache
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\metot-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\metot-overloading.AssemblyInfoInputs.cache
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\metot-overloading.AssemblyInfo.cs
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\metot-overloading.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\metot-overloading.dll
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\refint\metot-overloading.dll
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\metot-overloading.pdb
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\metot-overloading.genruntimeconfig.cache
+C:\Users\OSMAN\metot-overloading\obj\Debug\net6.0\ref\metot-overloading.dll
